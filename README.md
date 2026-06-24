@@ -9,6 +9,11 @@ Interactive Power BI dashboard analyzing sales performance data from 2015 to 201
 - Profit Margin: 12.47%
 - Total Customers: 793
 - Total Products: 2K+
+- ## Dashboard Preview
+
+![Executive Overview](Screenshot%202026-06-15%20194918.png)
+![Customer Analysis](Screenshot%202026-06-15%20194925.png)
+![Product Analysis](Screenshot%202026-06-15%20194932.png)
 
 ## Dashboard Pages
 - **Executive Overview** — Sales trends, total KPIs, and performance summary
